@@ -1,1 +1,3 @@
-
+#!/bin/bash
+echo "update the git"
+sudo apt-get update -y
